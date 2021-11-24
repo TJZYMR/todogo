@@ -1,0 +1,5 @@
+[2021-11-23 18:13:25] DB_USER not set in .env
+[2021-11-23 18:13:50] listen tcp :3306: bind: address already in use
+[2021-11-23 18:13:58] listen tcp :3306: bind: address already in use
+[2021-11-23 18:14:15] listen tcp :3306: bind: address already in use
+[2021-11-23 18:14:19] listen tcp :3306: bind: address already in use
